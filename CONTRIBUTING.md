@@ -1,35 +1,19 @@
-# Contributing to Awesome German Pragmatics
+# Contributing
 
-Thank you for your interest in contributing to this awesome list!
+Suggestions, corrections and removals are welcome. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Guidelines
+## Adding a resource
 
-Please ensure your pull request adheres to the following guidelines:
+Search the list first, so the same resource doesn't appear twice. Add one entry to the section where it fits best, in the same format as the entries around it, and link to the official page without tracking or referral parameters. One plain sentence should say what the resource is and who it's for, and mention it if the resource is paid.
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[Resource Name](link) - Description.`
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and include a link to the resource and why it should be included.
+## Fixing or removing an entry
 
-## Quality Standards
+Open an issue or a pull request for a broken link, an outdated description, or a resource that no longer fits. If you own a listed resource and want its entry changed or removed, an issue is enough.
 
-Resources should be related to German pragmatics, including but not limited to:
-- Contextual language use in German
-- Politeness strategies and formality conventions
-- Discourse analysis and conversation analysis
-- Speech acts in German
-- Regional pragmatic variation
-- Modal particles and their pragmatic functions
-- Address forms (Du/Sie)
-- German communication patterns
+## Pull requests
 
-## Updating Your Pull Request
+Keep each pull request to one resource or one fix, and check every link you add or change. Edit `README.md` only; maintainers update the translated READMEs where a repository has them.
 
-Sometimes, a maintainer will ask you to edit your pull request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-list guidelines.
+## License
 
-Thank you for contributing!
+By contributing, you agree that your contribution is licensed under [CC BY 4.0](LICENSE), the same license as the list.

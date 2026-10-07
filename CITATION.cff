@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "awesome-german/pragmatics"
+message: "If you use or reference this list, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: "Aesthetic Vulpes"
+    alias: didvc
+    website: "https://github.com/didvc"
+repository-code: "https://github.com/awesome-german/pragmatics"
+url: "https://github.com/awesome-german/pragmatics"
+license: CC-BY-4.0
+abstract: "Resources for German pragmatics, covering contextual language use, politeness strategies, and discourse analysis."
+keywords:
+  - awesome-list
+  - german
+  - language-learning
+  - pragmatics

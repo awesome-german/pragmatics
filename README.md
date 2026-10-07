@@ -116,6 +116,12 @@ Pragmatics studies how context contributes to meaning in German language use. Th
 - [Swiss German Communication](https://www.schweizerdeutsch.ch/) - Pragmatic features of Swiss German varieties.
 - [Northern vs. Southern German Communication Styles](https://www.atlas-alltagssprache.de/) - Regional differences in directness and politeness.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. Feel free to submit pull requests or open issues to suggest new resources.
@@ -125,3 +131,22 @@ When contributing, please ensure that:
 - Links are working and point to quality content
 - Descriptions are clear and accurate
 - Items are placed in the appropriate category
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [phrases](https://github.com/awesome-german/phrases): Common German phrases and expressions for everyday conversation.
+- [business](https://github.com/awesome-german/business): Resources and guides for mastering professional communication in German-speaking workplaces.
+- [grammar](https://github.com/awesome-german/grammar): Resources for learning German grammar, including structures, syntax, and usage nuances.
+- [academic-corpora](https://github.com/awesome-german/academic-corpora): Academic texts and linguistic corpora for German language research.
+
+<!-- END gh-mutual-linking -->
